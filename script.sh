@@ -3,6 +3,7 @@
 while true
 do
 echo Menu gestion des utilisateurs
+echo "----------------------------"
 echo "1- Créer un utilisateur"
 echo "2- Supprimer un utilisateur"
 echo "3- Quitter"
